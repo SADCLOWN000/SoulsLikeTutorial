@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Nanite assets
+Content/Megascans/3D_Assets/Sword_uh1fdetfa/Nanite/*
